@@ -11,7 +11,7 @@ Copyright (c) 2013-2014 Quantumcoin Developers
 What is Quantumcoin?
 ----------------
 
-Quantumcoin is a version os Litecoin using scrypt as a proof-of-work algorithm.
+Quantumcoin is a version of Litecoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
  - subsidy halves in 500,000 blocks
  - ~100 billions total coins
