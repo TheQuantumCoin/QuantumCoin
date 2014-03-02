@@ -14,8 +14,8 @@ What is Quantumcoin?
 Quantumcoin is a version os Litecoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
  - subsidy halves in 500,000 blocks
- - ~109 billions total coins
- - 100,000 coins per block
+ - ~100 billions total coins
+ - 65,000 coins per block
  - Difficulty Retarget: Every block using Kimoto's gravity well.
 
 For more information, as well as an immediately useable, binary version of
