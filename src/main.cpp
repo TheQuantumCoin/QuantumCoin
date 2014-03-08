@@ -1064,7 +1064,7 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
 
-        int64 nSubsidy = 65000 * COIN;
+        int64 nSubsidy = 82000 * COIN;
 
 // Bonus reward for block 20,000 - 29,999 of 300,000 coins
 
@@ -1089,7 +1089,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
                 nSubsidy =  600000 * COIN;
         }
 
-// Premine: First block is 11,000,000,000 QTC (11% of the total coin)
+// Premine
 
         if(nHeight < 2)
         {
