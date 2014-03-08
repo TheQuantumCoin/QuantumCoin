@@ -1,8 +1,6 @@
 Quantumcoin integration/staging tree
 ================================
 
-http://www.quantumcoin.com
-
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2013-2014 Quantumcoin Developers
@@ -18,8 +16,6 @@ Quantumcoin is a version of Litecoin using scrypt as a proof-of-work algorithm.
  - 65,000 coins per block
  - Difficulty Retarget: Every block using Kimoto's gravity well.
 
-For more information, as well as an immediately useable, binary version of
-the Quantumcoin client sofware, see http://www.quantumcoin.com.
 
 License
 -------
@@ -42,7 +38,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/quantumcoin/quantumcoin) are created
+completely stable. [Tags](https://github.com/thequantumcoin/quantumcoin) are created
 regularly to indicate new official, stable release versions of Quantumcoin.
 
 Testing
